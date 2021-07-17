@@ -1,4 +1,4 @@
-# MAGICPAY
+# D-Pay
 
 ## Functionalities
  * e-banking website for digitalized transactions.
@@ -11,4 +11,4 @@
   2. BackEnd  => Node.js
   3. Database => MongoDB: Hosted on MongoDB Atlas
  
- https://magicpay.herokuapp.com/
+https://dsk-pay.herokuapp.com
